@@ -1,0 +1,28 @@
+_repo: Dealings-with-the-Dead-Volume-I--of-2-_38588
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38588-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sargent, Lucius M. (Lucius Manlius)
+    birthdate: 1786
+    deathdate: 1867
+    gutenberg_agent_id: '39830'
+    url: http://www.gutenberg.org/2009/agents/39830
+description: ''
+gutenberg_issued: '2012-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Death'
+- !lcc 'GT'
+- !lcsh 'Funeral rites and ceremonies -- United States'
+- !lcsh 'Funeral rites and ceremonies'
+title: Dealings with the Dead, Volume 1 (of 2)
+url: http://www.gutenberg.org/ebooks/38588
